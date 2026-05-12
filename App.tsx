@@ -1,4 +1,3 @@
-[App.tsx](https://github.com/user-attachments/files/27648617/App.tsx)
 import React, { useState, useEffect } from 'react';
 import {
   View,

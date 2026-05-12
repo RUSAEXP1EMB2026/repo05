@@ -1,4 +1,3 @@
-[tsconfig.json](https://github.com/user-attachments/files/27648662/tsconfig.json)
 {
   "compilerOptions": {
     "target": "esnext",

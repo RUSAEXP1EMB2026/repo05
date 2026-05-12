@@ -1,4 +1,3 @@
-
 import Geolocation from 'react-native-geolocation-service';
 import BackgroundGeolocation from 'react-native-background-geolocation';
 

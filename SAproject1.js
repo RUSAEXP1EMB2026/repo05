@@ -1,4 +1,3 @@
-[SAproject1.js](https://github.com/user-attachments/files/27648467/SAproject1.js)
 import React, { useEffect, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
 import Geolocation from 'react-native-geolocation-service';
